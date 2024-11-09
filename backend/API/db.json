@@ -1,0 +1,30 @@
+{
+  "festas": [
+    {
+      "id": 50042,
+      "nome": "FESTA TOP",
+      "descricao": "AGORA VAIIIIIIIIIIIIIIIII",
+      "data": "2024-12-12"
+    },
+    {
+      "id": 50969,
+      "nome": "Teste de festa",
+      "descricao": "Teste",
+      "data": "2024-12-12"
+    },
+    {
+      "id": 61018,
+      "nome": "Agoraaa",
+      "descricao": "Vaiiiiiii",
+      "data": "2024-12-12"
+    }
+  ],
+  "pessoas": [
+    {
+      "id": 29296,
+      "festaId": 50042,
+      "nome": "AAAA",
+      "contribuicao": "AASSSAAS"
+    }
+  ]
+}
